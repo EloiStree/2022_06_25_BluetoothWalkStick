@@ -56,3 +56,4 @@ https://www.adafruit.com/product/2829
 
 BLE in IDE:
 https://youtu.be/vrcPGeYinVQ?t=533
+s
